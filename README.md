@@ -35,8 +35,4 @@ To run a program like check_images.py using the command line argument --dir spec
 
     sh run_models_batch.sh
 
-If you want to batch process the program on a Windows computer you will need to follow the instructions found [here](https://github.com/udacity/AIPND/blob/master/notes/lab_intro-to-python-lab.md#running-batch-files-on-windows-os-locally).
-
-On Windows use 
-
-    run_models_batch.bat 
+#### NOTE: The Batch processing used here can't be used on windows
